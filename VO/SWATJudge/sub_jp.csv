@@ -322,19 +322,19 @@ Key,Dialogue,Context
 [CALL]PrefixGoldTeam_1,ゴールドチーム...,About to order both red and blue
 [CALL]PrefixGoldTeam_2,全チーム...,About to order both red and blue
 [CALL]PrefixGoldTeam_3,エレメント...,About to order both red and blue
-[CALL]PrefixHighGroundTeam_0,狙撃班...,About to order high ground
-[CALL]PrefixHighGround_0,狙撃班,
+[CALL]PrefixHighGroundTeam_0,ハイグラウンド...,About to order high ground
+[CALL]PrefixHighGround_0,ハイグラウンド,
 [CALL]PrefixRedTeam_0,レッド...,About to order the red team
 [CALL]PrefixRedTeam_1,レッドチーム...,About to order the red team
 [CALL]PrefixTOCS_0,突入班だ。,
 [CALL]PrefixTOCS_1,リードだ。,
 [CALL]PrefixTOCS_2,エレメントだ。,
-[CALL]PrefixTOCS_3,狙撃班だ。,
+[CALL]PrefixTOCS_3,ハイグラウンドだ。,
 [CALL]PrefixTOCS_4,応答願う。,
 [CALL]PrefixTOC_0,突入班から作戦本部へ...,Contacting command over radio
 [CALL]PrefixTOC_1,リードから作戦本部へ...,Contacting command over radio
 [CALL]PrefixTOC_2,エレメントから作戦本部へ...,Contacting command over radio
-[CALL]PrefixTOC_3,狙撃班から作戦本部へ...,Contacting command over radio
+[CALL]PrefixTOC_3,ハイグラウンドから作戦本部へ...,Contacting command over radio
 [CALL]PrefixTOC_4,作戦本部...,Contacting command over radio
 [CALL]ReportArrestedCivilianS_0,民間人に手錠をかけた。移送準備よし。,
 [CALL]ReportArrestedCivilianS_1,救護のため、民間人に手錠をかけた。,
